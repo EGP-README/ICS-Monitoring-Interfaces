@@ -15,3 +15,7 @@
 - The program enables interaction much like the offical software but is parallalized for reading and lock resources to integrate with physical button presses
 - The program will not run or provide an interface without the Ybox device to act as an API to the PLC
 
+## Wastewater Treatment Facility 
+- Interfaces with an Allen-Bradley ControlLogix PLC and a PowerFlex 40 AC Variable Frequency Drive
+- Simulates the regulation of oxygen flow for the facility through blower fans and oxygen vlaves
+- Provides engineer interface and alerts if oxegen thresholds are not met
