@@ -19,3 +19,7 @@
 - Interfaces with an Allen-Bradley ControlLogix PLC and a PowerFlex 40 AC Variable Frequency Drive
 - Simulates the regulation of oxygen flow for the facility through blower fans and oxygen vlaves
 - Provides engineer interface and alerts if oxegen thresholds are not met
+
+## Power Substation
+- Interfaces with SEL-751A Feeder Protection Relay and a Schneider Electric PowerLogic PM5300 Power and Energy Meter
+- Displays the status of the power substation and detects discrepencies in PLC or portection relay readings
