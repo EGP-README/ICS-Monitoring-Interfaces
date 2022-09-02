@@ -1,6 +1,6 @@
 # Industrial Control System (ICS) Simulation and Monitoring Interfaces
 - This project contains Python programs used to interface with ICS Programmable Logic Controllers
-- Three ICS environments were constructed and montiored: Prison Cell Block, Waste Water Facility, Power Substation
+- Three ICS training environments were constructed: Prison Cell Block, Waste Water Facility, Power Substation
 - The environments were created to enable realistic ICS cyber secrity training scenarios with defender access to physical devices
 - Pygame is leveraged to create a visual interface that alerts ICS engineers when there is a discrepency in sensor readings and corresponding actuator activation
 - The images used to create the interface are not included in this repository for copyright reasons
